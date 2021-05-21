@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2012\Projects\RSLTest\RSLTest\bin\Debug\RSLTest.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\RSLTest\RSLTest\bin\Debug\RSLTest.exe
+c:\users\pc\documents\visual studio 2012\Projects\RSLTest\RSLTest\bin\Debug\RSLTest.pdb
+c:\users\pc\documents\visual studio 2012\Projects\RSLTest\RSLTest\obj\Debug\RSLTest.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\RSLTest\RSLTest\obj\Debug\RSLTest.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\RSLTest\RSLTest\obj\Debug\RSLTest.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\RSLTest\RSLTest\obj\Debug\RSLTest.exe
+c:\users\pc\documents\visual studio 2012\Projects\RSLTest\RSLTest\obj\Debug\RSLTest.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\RSLTest\RSLTest\obj\Debug\RSLTest.Student.resources
